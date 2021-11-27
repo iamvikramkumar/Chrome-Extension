@@ -1,2 +1,2 @@
 # Chrome-Extension
-Chrome Extension for Random Funny Jokes.
+Google Chrome Extension for Random Funny Jokes.
